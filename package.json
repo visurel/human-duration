@@ -1,0 +1,7 @@
+{
+  "name": "human-duration",
+  "version": "0.1",
+  "description": "Parse human made durations",
+  "main": "./juration.js",
+  "license": "MIT"
+}
